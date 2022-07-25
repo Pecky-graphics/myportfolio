@@ -86,7 +86,7 @@ a:hover{
     color: #fff;
     font-size: 35px;
    right: 0;
-    margin: 10px;
+    margin: 20px;
     cursor: pointer;
 }
 nav{
@@ -192,14 +192,17 @@ button:hover{
     }
 }
 @media(max-width:550px){
+    body{
+        overflow-x: hidden;
+    }
     .menu{
         width: 70%;
     }
     .content2 img{
     width:400px;
     float: none;
-    margin-left: 40px;
-        margin-top: 400px;
+    margin-left: 1px;
+        margin-top: 410px;
 
     }
     .logo{
@@ -212,7 +215,7 @@ button:hover{
 nav img{
     width: 200px;
     position: absolute;
-    left: -10%;
+    left: -13%;
 }
 }
 
