@@ -200,7 +200,7 @@ button:hover{
     }
    
 .content2 img{
-    width:200px;
+    width:300px;
     float: none;
     margin-left: 75px;
         margin-top: 470px;
@@ -214,7 +214,7 @@ button:hover{
     margin-left:80px;
 }
 nav img{
-    width: 200px;
+    width: 20px;
     position: absolute;
     left: -13%;
 }
