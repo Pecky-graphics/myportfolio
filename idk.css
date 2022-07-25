@@ -198,13 +198,14 @@ button:hover{
     .menu{
         width: 70%;
     }
-    .content2 img{
-    width:100px;
+   
+.content2 img{
+    width:250px;
     float: none;
-    margin-left: 20px;
-        margin-top: 440px;
+    margin-left: 70px;
+        margin-top: 450px;
 overflow-x: hidden;
-
+    }
     }
     .logo{
 	color: white;
