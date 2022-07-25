@@ -202,7 +202,8 @@ button:hover{
     width:400px;
     float: none;
     margin-left: 1px;
-        margin-top: 410px;
+        margin-top: 440px;
+overflow-x: hidden;
 
     }
     .logo{
