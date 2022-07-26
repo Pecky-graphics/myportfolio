@@ -198,7 +198,9 @@ button:hover{
     .menu{
         width: 70%;
     }
-   
+   . content{
+	top: 30%;
+}
 .content2 img{
     width:200px;
     float: none;
@@ -209,10 +211,10 @@ Overflow-x:hidden
     }
     .logo{
 	color: white;
-	font-size: 25px;
+	font-size: 23px;
 	letter-spacing: 1px;
 	cursor: pointer;
-    margin-left:80px;
+    margin-left:75px;
 }
 nav img{
     width: 170px;
