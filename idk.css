@@ -200,10 +200,10 @@ button:hover{
         width: 70%;
     }
    . content{
-	top: 10%;
+	top: 40%;
 }
 .content2 img{
-    width:200px;
+    width:00px;
     float: none;
     margin-left: 100px;
         margin-top:480px;
@@ -215,7 +215,7 @@ Overflow-x:hidden
 	font-size: 23px;
 	letter-spacing: 1px;
 	cursor: pointer;
-    margin-left:75px;
+    margin-left:80px;
 }
 nav img{
     width: 170px;
@@ -227,10 +227,10 @@ nav img{
 @media(max-width:320px){
     
     .content2 img{
-    width:300px;
+    width:250px;
     float: none;
-    margin-left: 1px;
-        margin-top: 410px;
+    margin-left: 25px;
+        margin-top: 440px;
 
     }
     .logo{
@@ -240,8 +240,11 @@ nav img{
 	cursor: pointer;
     margin-left:73px;
 }
+.menu-btn{
+margin:15px;
+}
 nav img{
-    width: 200px;
+    width: 170px;
     position: absolute;
     left: -20%;
 }
