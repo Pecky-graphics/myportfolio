@@ -55,23 +55,8 @@ z-index:2;
 .socials li{
     margin-bottom: 20px;
 }
-
-::-webkit-scrollbar{
-   width: 8px;
-    height: 8px;
-}
-::-webkit-scrollbar-track-piece{
-    background: #000000;
-}
-::-webkit-scrollbar-thumb{
-    background: #fa9c1b;
-    border-radius: 2px;
-}
-::-webkit-scrollbar-corner{
-    background: ;
-}
-::-webkit-scrollbar-thumb:window-inactive{
-    background:;
+.socials{
+display:flex;
 }
 
 .close-btn{
