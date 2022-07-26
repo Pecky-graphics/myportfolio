@@ -204,6 +204,7 @@ button:hover{
     float: none;
     margin-left: 100px;
         margin-top:480px;
+Overflow-x:hidden
     }
     }
     .logo{
@@ -214,9 +215,9 @@ button:hover{
     margin-left:80px;
 }
 nav img{
-    width: 0px;
+    width: 170px;
     position: absolute;
-    left: 13%;
+    left: -11%;
 }
 }
 
