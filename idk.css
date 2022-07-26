@@ -56,21 +56,21 @@ z-index:2;
     margin-bottom: 20px;
 }
 
-.menu::-webkit-scrollbar{
+::-webkit-scrollbar{
    width: 8px;
     height: 8px;
 }
-.menu::-webkit-scrollbar-track-piece{
+::-webkit-scrollbar-track-piece{
     background: #000000;
 }
-.menu::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-thumb{
     background: #fa9c1b;
     border-radius: 2px;
 }
-.menu::-webkit-scrollbar-corner{
+::-webkit-scrollbar-corner{
     background: ;
 }
-.menu::-webkit-scrollbar-thumb:window-inactive{
+::-webkit-scrollbar-thumb:window-inactive{
     background:;
 }
 
