@@ -86,14 +86,14 @@ a:hover{
     color: #fff;
     font-size: 35px;
    right: 0;
-    margin: 20px;
+    margin: 25px;
     cursor: pointer;
 }
 nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding-top: ;
+	margin-top: 25px;
 	padding-left: 1%;
 	padding-right: 1%;
 }
@@ -199,7 +199,7 @@ button:hover{
         width: 70%;
     }
    . content{
-	top: 30%;
+	top: 10%;
 }
 .content2 img{
     width:200px;
