@@ -203,7 +203,7 @@ button:hover{
 	top: 40%;
 }
 .content2 img{
-    width:250px;
+    width:0px;
     float: none;
     margin-left: 100px;
         margin-top:480px;
@@ -227,7 +227,7 @@ nav img{
 @media(max-width:320px){
     
     .content2 img{
-    width:250px;
+    width:0px;
     float: none;
     margin-left: 25px;
         margin-top: 440px;
