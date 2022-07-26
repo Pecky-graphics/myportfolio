@@ -202,7 +202,7 @@ button:hover{
 .content2 img{
     width:200px;
     float: none;
-    margin-left: 85px;
+    margin-left: 100px;
         margin-top:480px;
     }
     }
@@ -214,9 +214,9 @@ button:hover{
     margin-left:80px;
 }
 nav img{
-    width: 200px;
+    width: 50px;
     position: absolute;
-    left: -13%;
+    left: 13%;
 }
 }
 
