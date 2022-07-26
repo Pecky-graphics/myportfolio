@@ -1,5 +1,5 @@
 body{
-    background: #e5cdbf;
+    background: #efeeee;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -92,6 +92,7 @@ z-index:2;
 }
 nav{
 color:#fff;
+width:100%;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
