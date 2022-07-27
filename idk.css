@@ -171,6 +171,10 @@ button:hover{
 	cursor: pointer;
 }
 
+.content3 img{
+    display: none;
+}
+
 @media(max-width:1020px){
     .menu{
         width: 50%;
@@ -206,17 +210,22 @@ button:hover{
     .menu{
         width: 70%;
     }
-   . content{
-	top: 40%;
-}
-.content2 img{
-    width:0px;
-    float: none;
-    margin-left: 100px;
-        margin-top:480px;
-Overflow-x:hidden
+    .content{
+        top: 40%;
     }
-    
+    .content2 img{
+    display: none;
+    }
+    .content3 img{
+        display:block;
+        width: 90%;
+        z-index: 2;
+
+    }
+    .content3{
+        margin-top: 60%;
+        margin-left: 10%;
+    }
     .logo{
 	color: white;
 	font-size: 23px;
@@ -230,11 +239,27 @@ nav img{
     left: -11%;
 }
 }
+    @media(max-width:490px){
+      .content3{
+        margin-top: 80%;
+    }  
+    }
+    
+    @media(max-width:430px){
+      .content3{
+        margin-top: 100%;
+    }  
+    }
+    @media(max-width:400px){
+      .content3{
+        margin-top: 107%;
+    }  
+    }
 
 @media(max-width:320px){
     
     .content2 img{
-    width:0px;
+    width:;
     float: none;
     margin-left: 25px;
         margin-top: 440px;
@@ -247,9 +272,9 @@ nav img{
 	cursor: pointer;
     margin-left:60px;
 }
-.menu-btn{
-margin:15px;
-}
+    .menu-btn{
+        margin: 15px;
+    }
 nav img{
     width: 170px;
     position: absolute;
