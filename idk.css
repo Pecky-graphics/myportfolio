@@ -54,9 +54,11 @@ z-index:2;
 }
 .socials li{
     margin-bottom: 20px;
+
+display:flex;
+
 }
 .socials{
-display:flex;
 }
 
 .close-btn{
