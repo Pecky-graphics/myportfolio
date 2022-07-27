@@ -26,7 +26,7 @@ a:hover{
     position: fixed;
     min-height:100vh;
     width: 20%;
-    overflow-y:scroll;
+    overflow-y:auto;
     right: -100%;
     transition: 0.6s ease;
     transition-property: right;
@@ -54,11 +54,13 @@ z-index:2;
 }
 .socials li{
     margin-bottom: 20px;
-
-display:flex;
-
 }
-.socials{
+.socials ul{
+display:flex;
+}
+
+.socials li a{
+font-size:1.2em;
 }
 
 .close-btn{
