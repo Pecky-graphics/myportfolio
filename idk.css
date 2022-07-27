@@ -129,7 +129,7 @@ nav img{
 	transform: translateY(-50%);
 }
 .content2 img{
-    width:450px;
+    width:0px;
     float: right;
     margin-right: 150px;
 }
@@ -176,10 +176,28 @@ button:hover{
         width: 50%;
     }
 }
-@media(max-width:1000px){
+@media(max-width:1115px){
     .menu{
         width: 50%;
     }
+    .logo{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 1px;
+	cursor: pointer;
+    margin-left:100px;
+}
+   
+    
+    @media(max-width:950px){
+    .logo{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 1px;
+	cursor: pointer;
+    margin-left:115px;
+}
+    
 }
 @media(max-width:550px){
     body{
