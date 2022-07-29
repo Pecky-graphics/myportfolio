@@ -417,6 +417,7 @@ nav img{
 }
     .writing{
     display: block;
+background:none;
     }
     .writing button{
         width:15em;
