@@ -293,6 +293,47 @@ button:hover{
     margin: 0.5rem;
 }
 
+.proj{
+    background: #000000;
+    height:100%;
+    width:100%; 
+    margin: 0;
+    padding:0;
+}
+.proj h1{
+    margin: 0;
+    padding:0;
+}
+.ash{
+padding: 50px;
+}
+.writing{
+    display: flex;
+    justify-content:space-between;
+    padding: 20%;
+    background: #0f1011;
+    border-radius: 5px; 
+}
+.writing a{
+    color: #fa9c1b;
+}
+.writing button{
+    background-color:#0f1011 ;
+    border: 2px solid #fff;
+    height: 7vh;
+    width: 20em;
+    color: #fa9c1b;
+    margin-top: 50px;
+}
+
+.writing .bx{
+   font-size: 1em;
+}
+
+.div{
+    border-left: 1px solid #fa9c1b;
+    
+}
 
 @media(max-width:1020px){
     .menu{
@@ -335,7 +376,7 @@ button:hover{
     }
 @media(max-width:550px){
     .hero{
-        height: 140vh;
+        height: 150vh;
     }
     body{
         overflow-x: hidden;
@@ -374,6 +415,19 @@ nav img{
     position: absolute;
     left: -11%;
 }
+    .writing{
+    display: block;
+    }
+    .writing button{
+        width:15em;
+        height: 5vh;
+    }
+    .ash{
+padding: 10px;
+}
+    .padding2{
+        margin-top: 100px;
+    }
 }
     @media(max-width:490px){
       .content3{
@@ -391,7 +445,7 @@ nav img{
         margin-top: 107%;
     }  
     }
-@media(min-width:380px)and (max-width:420px){
+    @media(min-width:380px)and (max-width:420px){
         .hero{
             height: 110vh;
         }
