@@ -391,7 +391,11 @@ nav img{
         margin-top: 107%;
     }  
     }
-
+@media(min-width:380px)and (max-width:420px){
+        .hero{
+            height: 110vh;
+        }
+    }
     @media(max-width:385px){
         .hero{
 height: 128vh;
