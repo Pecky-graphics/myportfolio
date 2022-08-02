@@ -410,8 +410,8 @@ Outline:none;
 }
 
 .comment-box::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #080808;
-  opacity: 1; /* Firefox */
+  color: #191919 ;
+  /* Firefox */
 }
 
 .comment-box button:hover{
