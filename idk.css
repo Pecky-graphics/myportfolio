@@ -408,6 +408,12 @@ Outline:none;
     font-size: 1em;
     color: #fff;
 }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #3d3d3c;
+  opacity: 1; /* Firefox */
+}
+
 .comment-box button:hover{
     
 }
