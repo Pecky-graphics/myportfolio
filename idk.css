@@ -406,6 +406,10 @@ margin-top: 0px;
     font-size: 1em;
     color: #fff;
 }
+.comment-box ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: black;
+  opacity: 1; /* Firefox */
+}
 .comment-box button:hover{
     
 }
